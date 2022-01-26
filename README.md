@@ -6,4 +6,18 @@
 
 
 
-- Entendendo o processo de commit/push no GITHUB :happy:
+- Entendendo o processo de commit/push no GITHUB.
+
+
+
+
+
+
+
+
+
+
+
+
+
+** Alteração Básica **
