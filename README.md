@@ -1,4 +1,4 @@
-# Treinamento base do GITHUB.
+# Treinamento base do GITHUB. :man_technologist:
 
 
 
