@@ -1,4 +1,4 @@
-# Treinamento para entender o GITHUB.
+# Treinamento base do GITHUB.
 
 
 
